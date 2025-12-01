@@ -5,7 +5,7 @@ Repositório do MVP de Engenharia de Dados PUC de Camila Lourenço
 
 ## Visão Geral
 
-Este projeto realiza uma análise de preços e rentabilidade de combustíveis usando dados abertos da ANP (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis).  
+Este trabalho tem como objetivo realizar uma análise preliminar de viabilidade para a abertura de um novo posto de gasolina. O foco principal está na rentabilidade do empreendimento, não abrangendo variáveis adicionais como aspectos criminológicos, carga tributária, custos de franquia ou cálculos de break-even usando dados abertos da ANP (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis).  
 
 O pipeline inclui:
 
@@ -24,12 +24,12 @@ O código foi desenvolvido e testado no Databricks Free Edition.
 
 ## Principais análises
 
-1. Postos mais rentáveis
-2. Estados e bairros mais lucrativos
-3. Lucro por bandeira
-4. Produtos com melhor margem
-5. Produtos/Postos com margem negativa
-6. Produtos com aumento de preço recente
+•	Qual estado apresenta maior rentabilidade e qual bairro mais contribui para esse resultado?
+•	Quais bandeiras de postos apresentam maior lucro total e margem média?
+•	Quais produtos possuem maior margem de lucro em relação ao preço médio de revenda? 
+•	Quais postos ou produtos tiveram os maiores aumentos percentuais de preços recentemente?
+•	Quais produtos e postos apresentam margem negativa, indicando possíveis áreas de atenção?
+
 
 ---
 
